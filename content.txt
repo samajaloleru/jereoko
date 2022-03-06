@@ -1,0 +1,8 @@
+Pages
+    Home
+    Hotel
+    Spa
+    Real Estate
+    Interior Decoration
+    Fashion
+
